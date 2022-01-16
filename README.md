@@ -7,7 +7,7 @@ The project has 12 scenarios that that can be located within the feature files:
  - src/test/resources/PetTests.feature
  - src/test/resources/UserTests.feature  
 
-**OrderTests.feature scenarios include:**
+**OrderTests.feature scenarios include:**-
     Scenario: Correct error message is provided when searching for an order that does not exist.
     Scenario: Users are able to place orders for pets
     Scenario: Users are able to search for orders by its id
